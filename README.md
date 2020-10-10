@@ -8,6 +8,8 @@ Readymade boilerplate setup with all the best practices to kick start your npm/n
 
 Happy hacking =)
 
+Boilerplate forked from [here](https://github.com/flexdinesh/npm-module-boilerplate) by Dinesh Pandiyan
+
 # Features
 
 * **ES6/ESNext** - Write _ES6_ code and _Babel_ will transpile it to ES5 for backwards compatibility
@@ -34,4 +36,4 @@ Just clone this repo and remove `.git` folder.
 
 # License
 
-MIT © Dinesh Pandiyan
+MIT © Kyunwang
